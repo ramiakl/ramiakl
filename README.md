@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="26px" src="./img/mysql-logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 
+<br />
+<br />
+
 
 [linkedin]: https://www.linkedin.com/in/rami-akl-b70542153/
 [java]: https://www.java.com/en/

@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="sql" width="40px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 
+<br />
+
+### Tools:
+[<img align="left" alt="eclipse" width="26px" src="./img/eclipse-logo.png" style="padding-right:10px;" />][eclipse]
+[<img align="left" alt="androidStudio" width="26px" src="./img/android-logo.png" style="padding-right:10px;" />][androidstudio]
+[<img align="left" alt="MySQL" width="26px" src="./img/mysql-logo.png" style="padding-right:10px;" />][mysql]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 
 
 [linkedin]: https://www.linkedin.com/in/rami-akl-b70542153/
@@ -33,5 +40,3 @@ Here are some ideas to get you started:
 [eclipse]: https://www.eclipse.org/
 [androidstudio]: https://developer.android.com/studio
 [mysql]: https://www.mysql.com/
-[matlab]: https://www.mathworks.com/products/matlab.html
-[simulink]: https://www.mathworks.com/products/simulink.html#:~:text=Simulink%20is%20a%20block%20diagram,and%20deploy%20without%20writing%20code.

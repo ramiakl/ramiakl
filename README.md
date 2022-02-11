@@ -12,5 +12,26 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="ramiAkl | LinkedIn" width="22px" src="./img/linkedIn.svg#gh-light-mode-only" style="padding-right:10px;" />][linkedin]
 
+<br />
 
-[linkedin]: linkedin.com/in/rami-akl-b70542153/
+## Languages
+[<img align="left" alt="java" width="26px" src="./img/icons8-java-48.png" style="padding-right:10px;" />][java]
+[<img align="left" alt="pyhton" width="26px" src="./img/python.png" style="padding-right:10px;" />][python]
+[<img align="left" alt="php" width="38px" src="./img/PHP-logo.png" style="padding-right:10px;" />][php]
+[<img align="left" alt="sql" width="40px" src="./img/sql-logo.png" style="padding-right:10px;" />][sql]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
+
+
+
+[linkedin]: https://www.linkedin.com/in/rami-akl-b70542153/
+[java]: https://www.java.com/en/
+[python]: https://www.python.org/
+[sql]: https://www.google.com/search?q=sql&bih=588&biw=1229&rlz=1C1CHZL_enLB760LB760&hl=en&sxsrf=APq-WBsRtx4K0S6MnegWOQNP8mRc1VSUAg%3A1644253632156&ei=wFEBYoSGCYuugQawtaOgAg&ved=0ahUKEwiE5qiNiu71AhULV8AKHbDaCCQQ4dUDCA4&uact=5&oq=sql&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBwgAELEDEEMyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEMyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEEcQsAM6BwgAELADEENKBAhBGABKBAhGGABQ7wVYwwtgwRJoAXACeACAAeUBiAHLB5IBBTAuMy4ymAEAoAEByAEKwAEB&sclient=gws-wiz
+[php]: https://www.google.com/search?q=php&rlz=1C1CHZL_enLB760LB760&oq=php&aqs=chrome..69i57j0i512j0i20i263i512j0i512j0i20i263i512j0i512l5.631j0j9&sourceid=chrome&ie=UTF-8
+[html]: https://www.google.com/search?q=htmk&source=lmns&bih=588&biw=1229&rlz=1C1CHZL_enLB760LB760&hl=en&sa=X&ved=2ahUKEwik14bMi-71AhVaBxAIHep0DhUQ_AUoAHoECAEQAA
+[git]: https://git-scm.com/
+[eclipse]: https://www.eclipse.org/
+[androidstudio]: https://developer.android.com/studio
+[mysql]: https://www.mysql.com/
+[matlab]: https://www.mathworks.com/products/matlab.html
+[simulink]: https://www.mathworks.com/products/simulink.html#:~:text=Simulink%20is%20a%20block%20diagram,and%20deploy%20without%20writing%20code.

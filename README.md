@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<!--GITHUB STATS start-->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramiakl&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
+
+</details>
+<!--GITHUB STATS end-->
+---
+
 
 [linkedin]: https://www.linkedin.com/in/rami-akl-b70542153/
 [java]: https://www.java.com/en/
